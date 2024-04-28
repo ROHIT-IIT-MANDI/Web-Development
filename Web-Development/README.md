@@ -10,7 +10,7 @@ This repository contains Frontend, Backend and DataBase sub directories.
 + DataBase
     1. To be updated by Rohit 
 + Frontend
-    1. To be updated by Uttpal & Nitin
+    1. To be updated by Uttpal & Rohit
 
 
 ### Byee for now 
